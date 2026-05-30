@@ -1,0 +1,11 @@
+{
+  "version": "0.1.4",
+  "notes": "Phantom v0.1.4",
+  "pub_date": "2026-05-30T23:30:38Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS2lhZjhXZ2lmdXloL3BnZERwSVRncDYzd1cyZGVKakhCd1pzWnFnMHYyUkdUMjYxblN5dzJOYWlCaFBodjNSdkZRazVocHhSemJoOG9NVng3aFF3Szh1MlJiT3dCdmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTgzODMyCWZpbGU6UGhhbnRvbV8wLjEuNF94NjQtc2V0dXAuZXhlCncrcU9RSVI1ZGVaalc1T0ZiS2NRZHA1UkJRbllRVWdsa0ZIMjlPcWNBVmUveFJkVjQxZzdwa0pXQUxpQndzRndOLzZsbWhEZm1KNTBCTlBGRG9OSkFBPT0K",
+      "url": "https://slash-hug.github.io/phantom/Phantom_0.1.4_x64-setup.exe"
+    }
+  }
+}
