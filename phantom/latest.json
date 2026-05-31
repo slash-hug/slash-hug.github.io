@@ -1,11 +1,11 @@
 {
-  "version": "0.1.5",
-  "notes": "Phantom v0.1.5",
-  "pub_date": "2026-05-31T00:17:44Z",
+  "version": "0.1.6",
+  "notes": "Phantom v0.1.6",
+  "pub_date": "2026-05-31T01:15:07Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS2lhZjhXZ2lmdXhUUGNSYWtOZzJ2WDVOY2orQVpXOHNGb3hUVllheURSOGlmbGN6THZaS1R2bkp5UzAxYUxTaHBhdytZVDBqa21iaGI3alJjWGxXVnl6aGVWRVRwbHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTg2NjU4CWZpbGU6UGhhbnRvbV8wLjEuNV94NjQtc2V0dXAuZXhlCkpNeUJQS2VoUVpURUJnbHYvdkdFaGlWSGZjQlFiRHYvVHZLb3hHUStYeTcwb0VrRGoxd0NsNVBTcVp5Z3ErdFlXVWJ4SmpzVUJ2czhVNittQ25XckRnPT0K",
-      "url": "https://slash-hug.github.io/phantom/Phantom_0.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS2lhZjhXZ2lmdTlMT1l5aEl3bWtDVnlLWk1leUtQbWdjdHE3VW9YYTRXZnpkZHJCbXJaQkFraGlxcjNCRnJXbTBNdU9OVllLSlByWWdmek1nMUNRdGxFK3lIUVZsZXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTkwMTAwCWZpbGU6UGhhbnRvbV8wLjEuNl94NjQtc2V0dXAuZXhlCk5pdVd4OSs3OXRzaGpPNUx4WUZsVWxKbjBsa1I0MG11RUFPcDNsTStJUXBxeVczcFNBVFY5cW95b1UyN0pycnJIbHZGYTNYQ1hIcmlqSUNNR1FqVUR3PT0K",
+      "url": "https://slash-hug.github.io/phantom/Phantom_0.1.6_x64-setup.exe"
     }
   }
 }
